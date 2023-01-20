@@ -7,3 +7,7 @@ Fixing websites, one snippet at a time
 
 [Greasemonkey]: https://addons.mozilla.org/firefox/addon/greasemonkey/
 [Tampermonkey]: https://addons.mozilla.org/firefox/addon/tampermonkey/
+
+## Scripts
+- [wikipedia-vector.user.js](wikipedia-vector.user.js):
+  Forces Wikipedia to use the vector skin
