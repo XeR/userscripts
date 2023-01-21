@@ -11,3 +11,5 @@ Fixing websites, one snippet at a time
 ## Scripts
 - [wikipedia-vector.user.js](wikipedia-vector.user.js):
   Forces Wikipedia to use the vector skin
+- [gdrive-download.user.js](gdrive-download.user.js):
+  Downloads Google Drive links automatically
