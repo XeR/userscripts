@@ -13,3 +13,5 @@ Fixing websites, one snippet at a time
   Forces Wikipedia to use the vector skin
 - [gdrive-download.user.js](gdrive-download.user.js):
   Downloads Google Drive links automatically
+- [gdrive-warning.user.js](gdrive-warning.user.js):
+  Skips Google Drive's anti-malware warning
